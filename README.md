@@ -1,5 +1,7 @@
 Basic description:
 
+This python program plays clash royale with a specific golem deck (you can change the cards just by following the format of the cards I used) using image recognition
+
 golemdeck folder is just a photo album that is used by the cr_ui and cards py files
 
 play.py runs it
