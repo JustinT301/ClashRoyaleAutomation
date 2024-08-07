@@ -9,7 +9,7 @@
 6. [Credits](#credits)
 
 ## Introduction
-This is a Clash Royale Automation script that can play, exit matches, and queue into matched (Use at your own risk, this bot breaks Supercell TOS).
+This is a Clash Royale Automation script that can play, exit matches, and queue into matches (Use at your own risk, this bot breaks Supercell TOS).
 
 ## Features
 - Plays Clash Royale without user input
@@ -23,9 +23,15 @@ This is a Clash Royale Automation script that can play, exit matches, and queue 
    * Description: Python is the programming language used to develop this script.
 * Google Play Emulator
    * Description: Keep in center of primary monitor (where it opens). 
-* PyAutoGUI
-   * Version: 0.9.54
+* OpenCV
+   * Version: 4.10.0.84
    * Image Recognition to detect cards.
+* MSS
+   * Version: 9.0.1
+   * Screenshot Module
+* NumPy
+   * Version: 1.26.3
+   * Array computation
 * PyWin32
    * Version: 306
    * Clicks on cards, places them, and clicks on battle and exit buttons.
@@ -76,4 +82,4 @@ This is a Clash Royale Automation script that can play, exit matches, and queue 
 ## Credits
 * Developed by:
    * Justin Turbyfill
-* Date: August 2nd, 2024
+* Date: August 6nd, 2024
