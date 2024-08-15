@@ -38,26 +38,32 @@ def main():
         if rand_skeletons == 0:  # looks for then plays cards
             cards.skeletons()
             cards.evo_skeletons()
+            time.sleep(0.5)
             continue
 
         if rand_bats == 0:
             cards.bats()
+            time.sleep(0.5)
             continue
             
         if rand_baby_dragon == 0:
             cards.baby_dragon()
+            time.sleep(0.5)
             continue
             
         if rand_electro_dragon == 0:
             cards.electro_dragon()
+            time.sleep(0.5)
             continue
             
         if rand_lumberjack == 0:
             cards.lumberjack()
+            time.sleep(0.5)
             continue
             
         if rand_knight == 0:
             cards.knight()
+            time.sleep(0.5)
             continue
             
         cards.golem_nightwitch(golem_location, nightwitch_location, elixir_single_time)
