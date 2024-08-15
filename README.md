@@ -15,7 +15,7 @@ This is a Clash Royale Automation script that can play, exit matches, and queue 
 - Plays Clash Royale without user input
 - Code is highly customizable, user can create functions for any card
 - Has a preset golem nightwitch deck to test out
-- Currently does not collect chests due to TOS
+- Collects and opens chests
 
 ## Dependencies
 * Python
