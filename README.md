@@ -75,7 +75,8 @@ This is a Clash Royale Automation script that can play, exit matches, and queue 
 ## How to Use
 1. Open Clash Royale on Google Play Emulator
 2. Edit the coordinates to fit your monitor size, the coordinates that will need to be changes are the specific area coordinates, not the ones that click where the image was found.
-3. Run the game:
+3. There is a preset golem deck for this, (golem, nightwitch, edrag, babydrag, lumberjack, knight, bats, skeletons/evo skellies), some other cards have been coded in but if a card that you want to use has not been coded in, you can add the images necessary to a folder and use the format of the other cards in cards.py to write your own.
+4. Run the game:
    ```sh
    python play.py
    ```
